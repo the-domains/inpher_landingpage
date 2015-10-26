@@ -1,0 +1,23 @@
+name: inpher_LandingPage
+favicon: null
+layout_spectrum: 0.7280076704919338
+typography_spectrum: 0.8767782032955438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6018664429429919
+  lightness: 0.9057730180211365
+  saturation: 0.8441031947731972
+  rhythmicContrast: 0.5045367095153779
+purpose: []
